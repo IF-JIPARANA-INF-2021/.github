@@ -6,5 +6,5 @@
 
   | Ano | Repositório |
   |-|-|
-  | 2021 | https://github.com/guesant/ifro-2021-codigos |
-  | 2022 | https://github.com/guesant/ifro-2022-codigos |
+  | 2021 | https://github.com/legacybiel/ifro-2021-codigos |
+  | 2022 | https://github.com/legacybiel/ifro-2022-codigos |
